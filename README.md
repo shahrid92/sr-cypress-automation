@@ -1,2 +1,2 @@
 # sr-cypress-automation
-Repository for self learning cypress test automation
+Repository for my learning cypress test automation
