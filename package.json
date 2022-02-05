@@ -1,0 +1,22 @@
+{
+  "name": "sr-cypress-automation",
+  "version": "1.0.0",
+  "description": "practice test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahrid92/sr-cypress-automation.git"
+  },
+  "author": "shah ridzuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahrid92/sr-cypress-automation/issues"
+  },
+  "homepage": "https://github.com/shahrid92/sr-cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
